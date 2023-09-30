@@ -12,6 +12,8 @@ public class Demo2Test {
 	@Test(groups = "regression")
 	public void sample2() {
 		System.out.println("sample");
+		
+		
 
 }
 }
