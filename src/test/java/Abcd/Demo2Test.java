@@ -14,7 +14,7 @@ public class Demo2Test {
 		System.out.println("sample");
 		
 	}
-	@Test
+	@Test(groups = "regression")
 	public void sample3()
 	{
 		System.out.println("Ayyo durvidiye");
